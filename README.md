@@ -1,3 +1,6 @@
+Ce dev permet de tester l'authentification via Entra fourni par Microsoft en remplacement de Azure AD B2C.
+Ce dev est en asp.net core 8
+
 Pour tester:
 - lancer le dev backend
 - aller sur la page swagger : https://localhost:49225/swagger/index.html
